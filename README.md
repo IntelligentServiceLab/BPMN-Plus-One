@@ -16,8 +16,6 @@ This project is abut BPMN properties extension , and based on BPMN.js and Vue im
 
 1. An element property panel is provided to support the following extension functionalities. Clicking an element displays its corresponding properties.
 
-   ![](https://raw.githubusercontent.com/SongChaotian/bpmn-vue-sct/main/screenshoot/001.png)
-
    
 
 2. For `DataObjectReference` and `DataStoreReference`, a feature is provided to define multiple data items (with unlimited quantity), as shown in the right figure. Clicking on the "+" button creates a new data item, which is defined by the user (`e.g.`, Team1: Warriors, Team2: Lakers, Team3: Clippers). When the model is saved, the created data items will be associated with the corresponding elements and saved synchronously.
@@ -29,10 +27,6 @@ This project is abut BPMN properties extension , and based on BPMN.js and Vue im
    
 
 3. For message send/receive tasks, a functionality similar to requirement 2 has been implemented, which can be referred to in the following figure. Clicking the "+" sign creates a new message field, which is user-defined (such as Team1: Argentina, Team2: France, Team3: Croatia, Team4: Morocco). When the model is saved, the created message fields are associated with the corresponding tasks and saved synchronously.
-
-   ![需求3](https://raw.githubusercontent.com/SongChaotian/bpmn-vue-sct/main/screenshoot/004.png)
-
-   ![需求3](https://raw.githubusercontent.com/SongChaotian/bpmn-vue-sct/main/screenshoot/005.png)
 
 4. For message send/receive tasks, an additional feature has been implemented on the basis of requirement 3, similar to extension 2. It is temporarily referred to as "`Add MessageRelation Field`". Clicking on the "+" sign allows users to add new data fields (whose names are customizable, such as group1, group2,...). The content of each group can be selected from among several of the Team1, Team2,... data items already created in extension 2 (with no limit on the number of items that can be included in each group), or they can be manually inputted. The same saving requirements as mentioned above apply.
 
