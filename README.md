@@ -1,10 +1,10 @@
 # bpmn-vue-sct
 
-This project is an extension of the right-hand properties panel function based on bpmn.js, mainly implementing the following requirements:
+This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The specific initialization is shown as follow:
 
 ![](https://raw.githubusercontent.com/SongChaotian/bpmn-vue-sct/main/screenshoot/016.png)
 
-## Expansion description: 
+## Extension description: 
 
 - The following expansions are based on bpmn.io elements. 
 
@@ -12,7 +12,7 @@ This project is an extension of the right-hand properties panel function based o
 
 
 
-## Expansion points :
+## Extension requirements :
 
 1. An element property panel is provided to support the following extension functionalities. Clicking an element displays its corresponding properties.
 
