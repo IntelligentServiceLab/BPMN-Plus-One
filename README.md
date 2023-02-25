@@ -1,6 +1,6 @@
 # bpmn-vue-sct
 
-This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The specific initialization is shown as follow:
+This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. Specific initialization is shown as follow:
 
 ![](https://raw.githubusercontent.com/SongChaotian/bpmn-vue-sct/main/screenshoot/016.png)
 
