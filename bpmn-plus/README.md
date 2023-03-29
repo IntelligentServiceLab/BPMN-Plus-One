@@ -17,7 +17,7 @@
 
 
 
-This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The project has been deployed on a cloud server. [Click here to access it.](http://124.71.159.213:10086/custom-properties-panel)Specific initialization is shown as follow:
+This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The project has been deployed on a cloud server. [Click here to access it.](http://124.71.159.213:10086/bpmn-plus)Specific initialization is shown as follow:
 
 ![](https://raw.githubusercontent.com/SongChaotian/bpmn-plus/main/screenshoot/001.png)
 
@@ -93,6 +93,10 @@ npm run serve
 ## Update Notes
 
 > The latest update for bpmn-vue-sct
+
+### Update Notes (Mar 29)
+
+The introduction of a new feature allowing users to directly open local BPMN files via a simple drag-and-drop operation has not only provided a more convenient and efficient way of operation but also enhanced the overall user experience.
 
 ### Update Notes (Mar 24)
 
